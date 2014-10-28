@@ -5,5 +5,4 @@ Notebook
 --------
 
 * [Ipython Notebook pour l'enseignement](http://nbviewer.ipython.org/github/mbuffat/PYconFR2014/blob/master/PYconFR2014.ipynb)
-* [Quick Python Intro (from Lorena Barba)](http://nbviewer.ipython.org/urls/github.com/barbagroup/CFDPython/blob/master/lessons/00_Quick_Python_Intro.ipynb)
 
